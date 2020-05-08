@@ -1,0 +1,66 @@
+<DOCTYPE HTML>
+  <html lang = es>
+   <head>
+     <meta charset = "utf-8" />
+     <title>fuentes del derecho <\ title>
+   <\ head>
+      <style>
+          T. { 
+             color de fondo: aguamarina;
+             borde: 1px negro sólido;
+            }
+
+          L. { 
+             color de fondo: plata;
+             borde: 1px negro sólido;
+            }
+
+          C.{
+             color de fondo: lima;
+             borde: 1px negro sólido;
+            }
+      <\ style>
+          <body bdcolor = teal> 
+
+             <div class = "T.">
+               <h1>FUENTES DEL DERECHO<\ h1>              
+               <h2>formales <\ h2>
+               <h3>creación de la ley mediante los órganos legislativos quienes están
+               facultados para crearley en México son <\ h3>
+
+               <h4>1°presidente de la republica<\h4>
+               <h4>2°diputados y senadores<\h4>
+               <h4>3°legislaturas de los estados<\h4> 
+
+               <h5>jurisprudencia<h5\>
+               <h5>costumbre<\h5>
+               <h5>doctrina<\h5>
+
+               <h2>Reales<\h2> 
+               <h3>origen de la norma o del derecho teniendo en cuentael caracter, económico<\h3>
+              
+               <h2>historicas<\h2>
+               <h3>rñde refiere a aquellos documentos o textos de derecho que de acabó vijentes<\h3>
+             <\ div> 
+
+             <div class = "L.">
+               <h3> CAMBIO DE LETRA <\ h3>
+                  <font face ="kaiilen">h5<\font>
+                  <font face ="arista">h4<\font>
+                  <font face ="scriptura">h2<\font>
+             <\ div>
+
+             <div class = "C.">
+               <h3> CAMBIO DE COLOR DEL FONDO <\ h3>
+                <center><form>
+                   <INPUT TYPE = "button" VALUE = "Rojo" onClick = "sfondo ('RED')">
+                   <INPUT TYPE = "button" VALUE = "azúl" onClick = "sfondo ('BLUE')">
+                   <INPUT TYPE = "button" VALUE = "Anarangado" onClick = "sfondo ('ORANGE')">             
+                   <INPUT TYPE = "button" VALUE = "Verde" onClick = "sfondo ('GREEN')">
+                   <INPUT TYPE = "button" VALUE = "Negro" onClick = "sfondo ('BLACK')">
+                   <INPUT TYPE = "button" VALUE = "amarillo" onClick = "sfondo ('YELLOW')">
+                   <INPUT TYPE = "button" VALUE = "blanco" onClick = "sfondo ('WHITE')">
+                </form>
+             <\ div>
+          <\ body>
+<\ html>
